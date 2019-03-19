@@ -31,7 +31,7 @@
 
 三、主界面如下：
 ---------------
-![avatar](https://github.com/chi8708/NBCZ/blob/master/1529981048.jpg)
+![avatar1](https://github.com/chi8708/NBCZ/blob/master/1529981048.jpg)
 
 四、参考文档
 --------------------------
